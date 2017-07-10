@@ -1,12 +1,6 @@
 <?php
 
 /**
- * @todo: Change the mechanism of this thing entirely, make it a service that manipulates a new table/tables in the DB rather than trying to shoehorn the required functionality into data_provider_products
- *
- * Created by PhpStorm.
- * User: Brandon Jeffrey
- * Date: 15/06/2015
- * Time: 10:21
  */
 class ProductDuplicationService extends AbstractDataProvider
 {

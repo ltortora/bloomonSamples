@@ -1,9 +1,6 @@
 <?php
 /**
- * ProductService class file.
- *
- * @author Richard Brindley( richard.brindley@madbid.com )
- *
+ * ProductService class file
  */
 
 /**

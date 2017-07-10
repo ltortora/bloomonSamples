@@ -1,10 +1,6 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: Brandon Jeffrey
- * Date: 03/06/2015
- * Time: 10:01
  */
 class ProductAssemblerService extends CApplicationComponent
 {
